@@ -7,8 +7,6 @@
 이 저장소는 **실제 보행 네트워크 + 건물·수목이 제거된 지형고도(FABDEM)** 로 모든 보행 링크의 경사를 계산하고,
 **"평지라면 정류장 10분 안이지만, 계단과 법정 기준(1/12)을 넘는 경사를 피하면 정류장에 갈 수 없는 고령자"**(무장애 단절)를 행정동 단위로 추정합니다.
 
-- 분석보고서 초안: [docs/report_draft.md](docs/report_draft.md)
-- AI 활용 내역: [docs/AI_USAGE.md](docs/AI_USAGE.md)
 - 결과표: `data/processed/*.csv`, 그림: `figures/`
 
 ## 실행 방법
